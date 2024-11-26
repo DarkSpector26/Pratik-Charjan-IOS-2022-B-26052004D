@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ScoreData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <player1Score>3</player1Score>
+  <player2Score>3</player2Score>
+  <highScores>
+    <int>4</int>
+    <int>4</int>
+    <int>4</int>
+    <int>4</int>
+    <int>4</int>
+  </highScores>
+</ScoreData>
